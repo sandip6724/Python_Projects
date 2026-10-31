@@ -1,0 +1,90 @@
+﻿lead_id,rep_id,source,status,created_date,deal_value,email
+1,111, Linkedin,Open,16.09.2026,0,anita9@nova.io
+2,102,Web site,Open,2026-09-06,0,kiran28@gmail.com
+3,101,LINKEDIN,Won,09/10/2026,"₹11,000",tara13@nova.io
+4,111,cold call,Lost,2026-09-29,0,kiran18@gmail.com
+5,103,WEBSITE,Lost,10/09/2026,0,sanjay22@gmail.com
+6,102,Referral,won,2026-09-23,0,jaya17@gmail.com
+7,112,Web site,Won,25-Sep-2026,18000,tara19@nova.io
+8,110,Cold Call,Lost,13/09/2026,0,ravi3@nova.io
+9,104,COLD CALL,Open,25.10.2026,0,
+10,105,Website,Open,2026-09-11,0,swati23@yahoo.com
+11,111,LINKEDIN,Open,12/10/2026,0,
+12,103,website,Won,2026-09-30,56500,vikram36@yahoo.com
+13,111,Referral,Won,04-Sep-2026,4500000,
+14,107,LINKEDIN,Won,07.10.2026,120000,harish14@nova.io
+15,108,REFERRAL,Open,2026-09-30,0,manoj17@yahoo.com
+16,104,Cold call ,Lost,2026-10-18,0,kiran28@brightfin.com
+17,107,Referral ,Open,09.09.2026,0,bala32@gmail.com
+18,101,cold call,Won,11/09/2026,"109,000",geeta39@gmail.com
+19,107,REFERRAL,Open,04/10/2026,0,vikram36@gmail.com
+20,111,cold call,Open,2026-10-05,0,vikram22@gmail.com
+,,,,,,
+21,105,Referral,Lost,2026-10-17,0,vikram33@yahoo.com
+22,109,INDEED ,Open,20.09.2026,0,bala39@yahoo.com
+23,103,REFERRAL,Won,20/10/2026,,arjun39@acme.com
+24,108,LINKEDIN,Open,27.10.2026,,rekha16@gmail.com
+25,104,COLD CALL,Open,2026-09-06,,uma5@brightfin.com
+26,103,LinkedIn,Lost,06.10.2026,0,pooja17@brightfin.com
+27,110,Referral,Won,05-Oct-2026,104500,sanjay20@zenco.in
+28,111,Website,Lost,04-Oct-2026,0,ashok8@yahoo.com
+29,104,LinkedIn,Won,06.10.2026,"37,000",kiran15@gmail.com
+30,102,cold call,Won,05/09/2026,12000,harish5@brightfin.com
+31,104,LINKEDIN,Lost,2026-10-05,0,manoj37@brightfin.com
+32,108,LINKEDIN,Lost,27.09.2026,0,sanjay7@gmail.com
+33,111,referral,Lost,30/09/2026,0,sneha7@gmail.com
+34,107,cold call,Won,07.09.2026,-25000,anita13@yahoo.com
+35,109,REFERRAL,Lost,2026-09-18,0,ashok16@gmail.com
+36,108,Cold Call,Open,07-Sep-2026,0,
+37,102,Indeed,Open,11/09/2026,0,geeta32@zenco.in
+38,104,cold call,Open,2026-09-11,0,naveen1@zenco.in
+39,105,INDEED ,Open,19.09.2026,,geeta36@nova.io
+40,112,website,Won,14.09.2026,15000,kiran35@gmail.com
+41,112,referral,Won,01-Oct-2026,"₹72,000",bala11@gmail.com
+42,109, Linkedin,Won,09/10/2026,16500,anita26@gmail.com
+43,110,LinkedIn ,Lost,2026-10-10,0,ravi27@nova.io
+44,110,WEBSITE,Lost,17/09/2026,0,sanjay21@yahoo.com
+45,105,referral,Lost,2026-09-20,0,ashok21@gmail.com
+46,101,WEBSITE,Open,07/09/2026,0,ravi35@yahoo.com
+47,109,LinkedIn,Open,27/10/2026,0,ravi16@acme.com
+48,105, Linkedin,Won,2026-10-16,3800000,rekha40@nova.io
+49,109,LinkedIn ,Open,20/09/2026,0,kavya9@acme.com
+50,102,Cold call ,Open,2026-09-10,0,vikram19@brightfin.com
+,,,,,,
+51,104,Cold call ,Won,2026-10-11,117000,vikram33@zenco.in
+52,105,indeed,Open,2026-09-06,0,geeta18@gmail.com
+53,101,Referral,Won,2026-09-17,"₹28,500",ashok36@nova.io
+54,107,WEBSITE,Won,2026-10-27,96000,manoj35@gmail.com
+55,106,WEBSITE,WON,2026-09-09,"₹13,000",rekha24@gmail.com
+56,106,linkedin,Won,07/09/2026,53000,tara27@brightfin.com
+57,112,LinkedIn,Open,26.10.2026,0,pooja12@zenco.in
+58,101, Linkedin,Open,21.10.2026,0,geeta16@acme.com
+59,103,COLD CALL,Won,26/10/2026,,uma15@yahoo.com
+60,108,Referral,lost ,26.10.2026,0,anita15@gmail.com
+61,111,linkedin,Lost,26-Oct-2026,0,vikram33@yahoo.com
+62,111,website,WON,2026-10-24,0,tara22@gmail.com
+63,102,Cold Call,Won,2026-10-08,41500,sneha7@brightfin.com
+64,107,Referral ,Open,28/09/2026,,jaya33@gmail.com
+65,107,Cold Call,Won,03/09/2026,"₹98,500",geeta1@brightfin.com
+66,109,WEBSITE,Open,18-Oct-2026,0,sanjay24@zenco.in
+67,102,indeed,Open,10.10.2026,0,harish8@nova.io
+68,105,WEBSITE,Lost,21.09.2026,0,naveen19@brightfin.com
+69,103,LinkedIn,Lost,2026-09-25,0,pooja40@brightfin.com
+70,105,Referral ,lost ,2026-09-20,0,rekha14@zenco.in
+71,110,WEBSITE,Lost,29/09/2026,0,ashok14@brightfin.com
+72,108,COLD CALL,Open,18/10/2026,0,sanjay7@gmail.com
+73,109,Website,Lost,2026-09-06,0,anita20@yahoo.com
+74,104,linkedin,Won,2026-10-01,"₹86,000",ravi30@zenco.in
+75,111,Website,Open,25.09.2026,0,uma26@yahoo.com
+76,103,WEBSITE,Won,2026-10-19,118000,kavya28@yahoo.com
+77,103,Cold Call,Open,2026-09-30,0,sneha36@yahoo.com
+78,102,Website,Open,13/10/2026,0,bala36@brightfin.com
+79,106,INDEED ,Open,10/10/2026,0,geeta36@nova.io
+80,108,cold call,Open,2026-10-01,0,ashok17@yahoo.com
+64,107,Referral ,Open,28/09/2026,,jaya33@gmail.com
+28,111,Website,Lost,04-Oct-2026,0,ashok8@yahoo.com
+32,108,LINKEDIN,Lost,27.09.2026,0,sanjay7@gmail.com
+70,105,Referral ,lost ,2026-09-20,0,rekha14@zenco.in
+47,109,LinkedIn,Open,27/10/2026,0,ravi16@acme.com
+48,105, Linkedin,Won,2026-10-16,3800000,rekha40@nova.io
+,,,,,,
